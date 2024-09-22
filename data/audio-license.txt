@@ -1,0 +1,1 @@
+Tesxt audio from the LibriSpeech ASR corpus CC BY 4.0 https://www.openslr.org/12
